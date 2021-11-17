@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently polishing my SQL skills
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning HTML, CSS
 - 👯 I’m looking to collaborate on documentation, testing
 - 🤔 I’m looking for help with 
 - 💬 Ask me about Software Testing, Localization
